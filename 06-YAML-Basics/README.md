@@ -14,18 +14,18 @@ city: Netherlands
 - Equal amount of blank space required for all the items under a dictionary
 ```yml
 person:
-  name: kalyan
-  age: 23
-  city: Hyderabad
+  name: Manoj Kumar
+  age: 34
+  city: Netherlands
 ```
 
 ## Step-03: Array / Lists
 - Dash indicates an element of an array
 ```yml
 person: # Dictionary
-  name: kalyan
-  age: 23
-  city: Hyderabad
+  name: Manoj Kumar
+  age: 34
+  city: Netherlands
   hobbies: # List  
     - cycling
     - cookines
@@ -36,9 +36,9 @@ person: # Dictionary
 - Dash indicates an element of an array
 ```yml
 person: # Dictionary
-  name: kalyan
+  name: Manoj Kumar
   age: 23
-  city: Hyderabad
+  city: Netherlands
   hobbies: # List  
     - cycling
     - cooking
