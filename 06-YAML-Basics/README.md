@@ -4,9 +4,9 @@
 - Space after colon is mandatory to differentiate key and value
 ```yml
 # Defining simple key value pairs
-name: kalyan
-age: 23
-city: Hyderabad
+name: Manoj Kumar
+age: 34
+city: Netherlands
 ```
 
 ## Step-02: Dictionary / Map
